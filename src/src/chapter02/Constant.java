@@ -1,3 +1,4 @@
+//final 키워드를 이용한 리터럴을 기호상수로 표현.
 package chapter02;
 
 public class Constant {
