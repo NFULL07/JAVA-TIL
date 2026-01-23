@@ -1,8 +1,9 @@
 package chapter02;
 
 public class BooleanTest {
-    static void main(String[] args) {
+    public static void main(String args[]) {
         boolean b;
+
 
         b = true;
         System.out.println("b : " + b);
