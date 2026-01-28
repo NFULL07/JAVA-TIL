@@ -4,7 +4,7 @@ package chapter02;
 import java.util.*;
 
 public class InputString {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         String name;
         int age;
 

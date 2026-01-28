@@ -1,12 +1,8 @@
+package chapter02;
+
 public class ComparisonOperator {
-   public static void main (String[] args) {
-      int x = 3;
-      int y = 4;
-      
-      System.out.print ((x == y) +" ");
-      System.out.print((x != y) +" ");
-      System.out.print ((x > y) +" ");
-      System.out.print((x < y) +" ") ;
-      System.out.print ((x <= y) +" ");
-   }
+    static void main(String[] args) {
+        int x = 1;
+        System.out.println();
+    }
 }
